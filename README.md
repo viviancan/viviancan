@@ -3,8 +3,8 @@
 #### I'm a developer, educator, instructional designer, clay crafter, and xr enthusiast. I help people change their lives by [teaching them to code](https://www.codeup.com).
 
 - 🔭  I’m currently working on a full stack Spring Boot project
-- 📫  How to reach me: email, [twitter](https://www.twitter.com/viviancandev)
-- 😄  Pronouns: She, her, hers
+- 📫  You can reach me by email or [twitter](https://www.twitter.com/viviancandev)
+- 😄  My pronounds are she, her, hers
 
 <!--
 **viviancan/viviancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
