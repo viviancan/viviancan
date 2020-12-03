@@ -3,6 +3,7 @@
 #### I'm a developer, educator, instructional designer, clay crafter, and xr enthusiast. I help people change their lives by [teaching them to code](https://www.codeup.com).
 
 - 🔭  I’m currently working on a full stack Spring Boot project
+- 💻  I most recently contributed to the [Ganymede](https://codeup.com/ganymede/) and [Fortuna](https://codeup.com/fortuna/) capstone process.
 - 📫  You can reach me by email or [twitter](https://www.twitter.com/viviancandev)
 - 😄  My pronounds are she, her, hers
 
