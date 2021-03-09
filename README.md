@@ -5,7 +5,7 @@
 - 🔭  I’m currently enrolled in a 10 week XR course through [Circuit Stream](https://circuitstream.com/). I am learning about XR development and building my own projects with Unity and C#.
 - 💻  I most recently contributed to the [Ganymede](https://codeup.com/ganymede/) and [Fortuna](https://codeup.com/fortuna/) capstone process
 - 📫  You can reach me by email or [twitter](https://www.twitter.com/viviancandev)
-- 😄  My pronounds are she, her, hers
+- 😄  My pronouns are she, her, hers
 
 <!--
 **viviancan/viviancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
