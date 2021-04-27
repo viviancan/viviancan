@@ -1,9 +1,9 @@
 ### Hello, my name is Vivian!
 
-#### I'm a developer, educator, instructional designer, clay crafter, and xr enthusiast. I help people change their lives by [teaching them to code](https://www.codeup.com).
+#### I'm a developer, educator, instructional designer, clay crafter, and xr enthusiast. The nonprofit I work for empowers girls and families around the world to become leaders, creators, and problem-solvers. 
 
-- 🔭  I’m currently enrolled in a 10 week XR course through [Circuit Stream](https://circuitstream.com/). I am learning about XR development and building my own projects with Unity and C#.
-- 💻  I most recently contributed to the [Ganymede](https://codeup.com/ganymede/) and [Fortuna](https://codeup.com/fortuna/) capstone process
+- 🔭  I’m currently enrolled in a 10 week XR course through [Circuit Stream](https://circuitstream.com/). I am learning about XR development and building my own projects with Unity and C#. You can check out my first project [here](https://viviancan.dev/rollaball)
+- 💻  I most recently helped facilitate the [Jupiter](https://codeup.com/jupiter/) capstone process
 - 📫  You can reach me by email or [twitter](https://www.twitter.com/viviancandev)
 - 😄  My pronouns are she, her, hers
 
