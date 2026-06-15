@@ -1,8 +1,8 @@
 ### Hello, my name is Vivian!
 
-#### I'm a software developer, educator, instructional designer, crafter, and xr enthusiast. The global tech nonprofit I work for empowers girls and families around the world to become leaders, creators, and problem-solvers through entrepreneurship and technology. 
+#### I'm a software developer, educator, instructional designer, crafter, and xr enthusiast.
 
-- 📫  You can reach me by email or [twitter](https://www.twitter.com/viviancandev)
+- 📫  You can reach me by email
 - 😄  My pronouns are she, her, hers
 
 
