@@ -1,11 +1,4 @@
 ### Hello, my name is Vivian!
-
-#### I'm a software developer, educator, instructional designer, crafter, and xr enthusiast.
-
-- 📫  You can reach me by email
-- 😄  My pronouns are she, her, hers
-
-
 <!--
 **viviancan/viviancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
